@@ -1,0 +1,15 @@
+C:\Users\kristupas\Desktop\TreciasPraktinis(RSA)\obj\Debug\net6.0\TreciasPraktinis(RSA).csproj.AssemblyReference.cache
+C:\Users\kristupas\Desktop\TreciasPraktinis(RSA)\obj\Debug\net6.0\TreciasPraktinis(RSA).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kristupas\Desktop\TreciasPraktinis(RSA)\obj\Debug\net6.0\TreciasPraktinis(RSA).AssemblyInfoInputs.cache
+C:\Users\kristupas\Desktop\TreciasPraktinis(RSA)\obj\Debug\net6.0\TreciasPraktinis(RSA).AssemblyInfo.cs
+C:\Users\kristupas\Desktop\TreciasPraktinis(RSA)\obj\Debug\net6.0\TreciasPraktinis(RSA).csproj.CoreCompileInputs.cache
+C:\Users\kristupas\Desktop\TreciasPraktinis(RSA)\bin\Debug\net6.0\TreciasPraktinis(RSA).exe
+C:\Users\kristupas\Desktop\TreciasPraktinis(RSA)\bin\Debug\net6.0\TreciasPraktinis(RSA).deps.json
+C:\Users\kristupas\Desktop\TreciasPraktinis(RSA)\bin\Debug\net6.0\TreciasPraktinis(RSA).runtimeconfig.json
+C:\Users\kristupas\Desktop\TreciasPraktinis(RSA)\bin\Debug\net6.0\TreciasPraktinis(RSA).dll
+C:\Users\kristupas\Desktop\TreciasPraktinis(RSA)\bin\Debug\net6.0\TreciasPraktinis(RSA).pdb
+C:\Users\kristupas\Desktop\TreciasPraktinis(RSA)\obj\Debug\net6.0\TreciasPraktinis(RSA).dll
+C:\Users\kristupas\Desktop\TreciasPraktinis(RSA)\obj\Debug\net6.0\refint\TreciasPraktinis(RSA).dll
+C:\Users\kristupas\Desktop\TreciasPraktinis(RSA)\obj\Debug\net6.0\TreciasPraktinis(RSA).pdb
+C:\Users\kristupas\Desktop\TreciasPraktinis(RSA)\obj\Debug\net6.0\TreciasPraktinis(RSA).genruntimeconfig.cache
+C:\Users\kristupas\Desktop\TreciasPraktinis(RSA)\obj\Debug\net6.0\ref\TreciasPraktinis(RSA).dll
